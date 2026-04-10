@@ -1,6 +1,9 @@
 [package]
 name = "zglyph"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 
 [dependencies]
+terminal_size = "0.4.0"
+stl_io = "0.7.0"
+crossterm = "0.27"
