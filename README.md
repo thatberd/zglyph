@@ -25,6 +25,8 @@ The compiled binary will be placed in `target/release/zglyph`.
 
 ## Usage
 
+**WARNING:** Not yet published on Crates.io.
+
 Add the crate to your `Cargo.toml`:
 
 ```toml
